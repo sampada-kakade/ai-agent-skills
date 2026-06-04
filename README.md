@@ -1,4 +1,4 @@
-# Awesome Agent Skills
+# ai Agent Skills
 
 A curated collection of skills for AI agents following the [Agent Skills](https://agentskills.io) format.
 
@@ -60,7 +60,14 @@ Each skill contains:
 | [email-drafter](email-drafter/) | Professional email composition |
 | [meeting-notes](meeting-notes/) | Structured meeting summaries with action items |
 | [decision-helper](decision-helper/) | Structured decision-making frameworks |
+-------
+### 🧩 ai Agent Skills
+*Ready-to-use agent skill files you can plug into any AI agent or LLM workflow.*
 
+*   [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) - Automatically optimize agent skills using Gemini and ADK
+
+<details>
+<summary><strong>📋 Browse all 19 skills</strong></summary>
 ## Installation
 
 ### Using npx (Recommended)
