@@ -68,6 +68,9 @@ Each skill contains:
 
 <details>
 <summary><strong>📋 Browse all 19 skills</strong></summary>
+
+
+  
 ## Installation
 
 ### Using npx (Recommended)
