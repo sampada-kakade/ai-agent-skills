@@ -67,7 +67,7 @@ Each skill contains:
 *   [♾️ Self-Improving Agent Skills](awesome_agent_skills/self-improving-agent-skills/) - Automatically optimize agent skills using Gemini and ADK
 
 <details>
-<summary><strong>📋 Browse all 19 skills</strong></summary>
+
 
 
   
